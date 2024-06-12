@@ -81,4 +81,4 @@ class MainActivity : AppCompatActivity() {
     fun nextMeme(view: View) {
         loadMeme()
     }
-}
+} 
